@@ -1,0 +1,51 @@
+/* h1 {
+    font-weight: 700;
+    color: gold;
+    background-color: purple;
+    padding: 20px 40px;
+    margin: 0px;
+    width: 90%;
+    border: 5px solid black;
+    font-size: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+
+    display: grid;
+    place-items: center;
+
+    text-align: center;
+}
+h1:hover {
+    color: aqua;
+}
+.first_header_list {
+    font-size: 25px;
+}
+
+.first__list {
+    display: grid;
+    place-items: center;
+}
+.padding {
+    color: aqua;
+}
+.header {
+    color: azure;
+}
+.background {
+    color: burlywood;
+}
+.color {
+    color: crimson;
+} */
+/* * {
+    display: grid;
+    place-items: center;
+} */
+img {
+    border: 3px solid black;
+}
+* {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
